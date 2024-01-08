@@ -81,7 +81,7 @@
 
   - if the app is not running then there is a notification will appear at the top and also badge will be appear to the app icon at img 2.1.
 
-    <img src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/305909e5-880d-4e58-9086-21eaf03176eb" width="170px" />
+    <img src="https://github.com/Appycodes/bloc-doc/assets/155710242/527c3f74-970c-4c36-bf0b-2723891e07a0" width="170px" />
       
      <p>img: 2.1 </p>
 
@@ -109,7 +109,7 @@
 
 - `Important of Star ⭐` : Once you collect 100 or more star then you can exchange the star with bitcoin or with cash.
 
-  <img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/60f9a8df-89a3-4118-8216-b92c05b0a091" />
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/55526aa3-cd4a-42c1-9a70-9d856e671810" />
 
 - Store section are divided in 4 section:
   - Subscribe
@@ -123,14 +123,14 @@
 
   #### More Connection :
 
-    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/ce4d7dcf-5b73-487c-b9ee-bcf3bebaf32a" />
+    <img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/9f81d42c-619f-4a95-ab50-9ee9f28df741" />
     <p> img: 4.1.1 </p>
 
   - He get 10 star per month to increase the change of connection with someone at img: 4.1.1.
 
   #### Become a VIP :
 
-    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/0e28ab92-46cb-447e-b42e-03a9cc905d3e" />
+    <img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/c5cb2d57-3e31-4689-9dab-3d17c47f0cfb" />
      <p> img: 4.1.2 </p>
 
   - He become a VIP user of our app and as a VIP user he get to boost to top of the events and surely he is always to seen at img: 4.1.2.
@@ -139,12 +139,12 @@
 
   - If you subscribe to our app then you can add connection unlimited. Otherwise, you can add only 5 connections.
 
-    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/aa867b31-901c-4077-b894-a551fae21b96" />
+    <img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/1d1db95d-54db-43de-bec2-097ec3afffb7" />
      <p> img: 4.1.3 </p>
 
   #### Unlock Filters :
 
-    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/3beda4a3-a9ea-44c7-849c-75ba41a44439" />
+    <img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/8853421d-1f63-4fab-b04d-c27be2c8d753" />
      <p> img: 4.1.4 </p>
 
   - He able to unlock all kind of filters and He get full access so that he can set his perference at img: 4.1.4
@@ -157,14 +157,14 @@
 
 ### 4.3 Earn:
 
-<img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/f71a7823-7df1-4ce1-a7d3-da916eadb494" />
+<img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/522abf52-68b3-4e5f-921c-fe119bbf6346" />
 
 - If user follow on instagram he get earn 1 star.
 - If user check-in every day at event then he earn 3 star.
 
 ### 4.4 Exchange:
 
-<img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/2f1d3fae-55c1-4294-bb5c-aa14489ee023" />
+<img width="200px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/a0583801-a55e-454b-8231-97cd564bd73a" />
 
 - If a user earn 100 or more star then he can exchange those star with coin.
 
@@ -172,7 +172,7 @@
 
 # 5.Profile:
 
-<Img  width="170px"  src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/60c75b1e-1653-4d8d-a265-2823bda03a7e" />
+<Img  width="170px"  src="https://github.com/Appycodes/bloc-doc/assets/155710242/b76efffd-0759-4532-bf60-85a3d9054717" />
 
 - In the profile section user can upload his 6 different picture and added some personal details like his employer details, education deatils, where he live (location details), gender, fun facts etc.
 
@@ -181,8 +181,8 @@
 - At the bottom of the profile screen, there is a preview profile button, If the user taps this button then he navigates a screen where he sees how another user has seen his profile.
   ( i.e. User tap on the img: 5.1.1 preview profile button then he navigates to img: 5.1.2 ( Profile details screen ) where he sees how another user has seen his profile. )
 
-<Img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/04a042ef-62c3-4eb4-bb9b-826c80fbca29" />
+<Img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/4245e701-8e1a-405d-98d7-9fafdbfee359" />
 <p>img: 5.1.1</p>
 
-<img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/f1257706-7d7f-4df4-93db-f863476ad4e8" />
+<img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/ddc38d17-12dc-4f3a-aa97-f66336ca442c" />
 <p>img: 5.1.2</p>
