@@ -11,7 +11,7 @@
 - Events Today
 - Specials
 
-  <img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/6887b9e8-f2ff-411c-b4ec-ede34b16ebdb" />
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/77699c7b-2152-42d0-8e57-f0c8c26065e8" />
   <p>img: 1.1 </p>
 
 #### 1.1.1 People:
