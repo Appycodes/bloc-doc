@@ -1,4 +1,4 @@
-- # AUTHENTICATION FLOW:
+# AUTHENTICATION FLOW
 
 - First of all User have to Signup the app using phone number, then only he can able to use this app.
 
