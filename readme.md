@@ -54,7 +54,7 @@
 
 <hr/>
 
-## 1.1 Some addition setup
+### 1.1 Some addition setup to continue
 - Open a  welcome screen and clicked `LET'S GO` button and continue at img: 1.1.1
 
   <img width="170" src="https://github.com/Appycodes/bloc-doc/assets/155710242/1ebe4492-6ac4-42ea-a726-e4ea2a43b7fb" />
