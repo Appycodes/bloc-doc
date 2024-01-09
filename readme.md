@@ -1,4 +1,4 @@
-- # Authentication Flow:
+- # AUTHENTICATION FLOW:
 
 - First of all User have to Signup the app using phone number, then only he can able to use this app.
 
@@ -108,6 +108,9 @@
   <p> img:4.1 </p>
 
 <hr/>
+<hr/>
+
+# APP FLOW
 
 # 5.Home Screen:
 
@@ -164,6 +167,9 @@
 
 
 -  Beyond this, there is a button at the bottom of the screen after clicking this button users can search events by location.
+
+    <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/2ca32e8e-13d7-45cf-9548-45a699bb7c29" />
+    <p> img-5.1.3: Events Today </p>
 
 #### 5.1.4 Specials:
 
