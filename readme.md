@@ -88,6 +88,8 @@
 
 - If user forgot the password then he clicked `Forgot Password` and set a new password 
 
+<hr/>
+
 # 3.Forgot Password:
 
 - First of all user fill in the email id which is he used at the signup time and clicked submit button at img: 3.1
@@ -99,6 +101,8 @@
 
   <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/efb6a698-9927-4ed0-96c6-6fa6d4833e00" />
   <p> img: 3.2 </p>
+
+<hr/>
 
 # 4. Log Out:
 
