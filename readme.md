@@ -52,9 +52,8 @@
   <img width="170" src="https://github.com/Appycodes/bloc-doc/assets/155710242/019639b8-a3f2-4d1f-a5f5-db2da1b4741c" />
   <p> img: 1.9 </p.
 
-<hr/>
-
 ### 1.1 Some addition setup to continue
+
 - Open a  welcome screen and clicked `LET'S GO` button and continue at img: 1.1.1
 
   <img width="170" src="https://github.com/Appycodes/bloc-doc/assets/155710242/1ebe4492-6ac4-42ea-a726-e4ea2a43b7fb" />
