@@ -18,7 +18,7 @@
 
 - Select a date and continue at img 1.3
 
-  <img width="170" src=" https://github.com/Appycodes/bloc-doc/assets/155710242/440404b2-4a58-46f8-afa1-4ec3d3bc5e54"/>
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/440404b2-4a58-46f8-afa1-4ec3d3bc5e54"/>
   <p> img: 1.3 </p>
 
 
@@ -307,8 +307,8 @@
 - At the bottom of the profile screen, there is a preview profile button, If the user taps this button then he navigates a screen where he sees how another user has seen his profile.
   ( i.e. User tap on the img: 9.1.1 preview profile button then he navigates to img: 9.1.2 ( Profile details screen ) where he sees how another user has seen his profile. )
 
-<Img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/4245e701-8e1a-405d-98d7-9fafdbfee359" />
-<p>img: 9.1.1</p>
+  <Img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/4245e701-8e1a-405d-98d7-9fafdbfee359" />
+  <p>img: 9.1.1</p>
 
-<img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/ddc38d17-12dc-4f3a-aa97-f66336ca442c" />
-<p>img: 9.1.2</p>
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/ddc38d17-12dc-4f3a-aa97-f66336ca442c" />
+  <p>img: 9.1.2</p>
