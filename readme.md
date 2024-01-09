@@ -133,11 +133,17 @@
 
 - Users can search for an event on a particular venue with aparticular date and check-in.
 
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/0bbf859d-3287-499b-92f6-170de0863528" />
+  <p>img-5.1.1: People Screen </p>
+
 #### 5.1.2 Nearby Events:
 
 - Users can see all the nearby present-date events and also can change the date, according to the date events will appear and check-in.
 
 - Also, there is a search functionality where he can search for a perticular event.
+
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/d5c79f2e-76de-4bb2-8a57-fbb323806fbe" />
+  <p>img-5.1.2: Nearby Events </p>
 
 #### 5.1.3 Events Today:
 
@@ -171,11 +177,17 @@
 
 - In this section there is also shown the advertisement of events.
 
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/86498cae-7a69-4519-b223-8c8c558db4ec"/>
+  <p> img-5.2: Newsfeed Screen </p>
+
 <hr/>
 
-# 2.Chat:
+# 6.Chat:
 
 - In the chat section you can chat with other users (This section is working like Facebook Messenger)
+
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/d8f4625f-b3ee-4616-bafb-4d80b9b63009" />
+  <p> img-6.1: Chat Screen </p>
 
 - `How to chat with someone` : 
   - First of all you need to check-in for a event and then you need to connect with someone who is also check-in for the same event. (Make connection by sending conneciton request or supper like.)
@@ -190,17 +202,17 @@
 
 - When one user send message to another user then:
 
-  - if the app is not running then there is a notification will appear at the top and also badge will be appear to the app icon at img 6.1.
+  - if the app is not running then there is a notification will appear at the top and also badge will be appear to the app icon at img 6.1.1
 
     <img src="https://github.com/Appycodes/bloc-doc/assets/155710242/527c3f74-970c-4c36-bf0b-2723891e07a0" width="170px" />
       
-     <p>img: 6.1 </p>
+     <p>img: 6.1.1 </p>
 
 - After opening the app or if the app is running then on the bottom there is a chat icon and on the chat icon there is a badge will appear.
 
   <hr/>
 
-# 7.Check in:
+# 7.Check In:
 
 - User can search for a event and after select the event you can check-in.
 
@@ -211,6 +223,9 @@
   - Once you check-in to the event these event details will shown on the Newsfeed section.
 
 - Once your check-in is done then you get 3 stars.
+
+  <img width="170px" src="https://github.com/Appycodes/bloc-doc/assets/155710242/5b258218-329d-47f5-91e9-9fc345897fd6" />
+  <p> img-7: Check In </p>
 
 <hr/>
 
